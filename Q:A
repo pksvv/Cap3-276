@@ -1,0 +1,43 @@
+Anushk - 
+
+I would like to know more about opportunities of data science in finance and bfsi sector.
+
+    Risk Information - 
+    Marketing and Sales - 
+        Travel and Lifestyle -  
+    Finance and Accounting
+    Procure to Pay
+        Spend Analysis
+        Supplier Fraud Detection
+
+
+Madhuri Panwar
+Your perspective of MLOps (Model Evaluation & Performance,   
+Security & continuity
+Model Versioning/Post production Mgt)
+
+MLOps
+    - Development - IDE - jupyter
+    - Code Versioning - Github
+    - Data Labelling - Snorkel, Doccano
+    - EDA - Data exploration & viz - 
+    - Feature ENgineering - sklearn, feast
+    - Model training - TF
+    - Build POC - streamlit, shiny-R
+    - Model Debug & viz - Netron, Neptune 
+    - Model Tuning - Optuna, HyperOpt, KerasTuner
+    - Experiment Tracking - Tensorboard, Comet
+    - Model Packaging - Sagemaker, Mlflow, TF Serving
+    - Model Serving - Sagemaker, BentoML
+    - Orchestration - Kubeflow, Airflow, LUIGI
+    - Data goverance / Versioning - Neptune, Pachyderm
+    - Model Registry - Kubeflow
+    - Model Monitoring - Seldon, Sagemaker, Fiddler
+
+Madhuri Panwar to All Participants:
+Also other use case of AI in Supply Chain and Marketing/Customer facing 
+
+from Madhuri Panwar to All Participants:
+how is it productionalized?
+
+https://github.com/pksvv/ML_deployment
